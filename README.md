@@ -15,3 +15,16 @@ Your new list will show one keyword per line with a ", " after each word.
 If your keywords in your original list have a space this script will interpret them as individual keywords and it will separate them out. 
 
 <i> To Do: Adjust script to handle keywords that contain more than one word per line so "ICE CREAM" is "ICE CREAM" and not "ICE, CREAM"</i>
+
+<b>EXAMPLE:</b>
+
+Original List:
+
+Steak
+Chicken
+Fish
+Bread
+
+Converted List:
+
+Steak, Chicken, Fish, Breah
